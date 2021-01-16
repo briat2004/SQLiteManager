@@ -1,0 +1,12 @@
+//
+//  SqlCommand.swift
+//  SQLiteManager
+//
+//  Created by BruceWu on 2020/11/7.
+//
+
+import Foundation
+
+let CREATE_TABLE_IF_NOT_EXISTS = "CREATE TABLE IF NOT EXISTS "
+let ID_INTEGER_PRIMARY_KEY_AUTOINCREMENT = "ID INTEGER PRIMARY KEY AUTOINCREMENT"
+let INSERT_INTO = "INSERT INTO "
